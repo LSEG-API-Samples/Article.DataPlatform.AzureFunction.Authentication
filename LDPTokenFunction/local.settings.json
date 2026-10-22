@@ -10,7 +10,7 @@
     "LDPClientID": "<Application Key>",
     "LDPTokenURL": "https://api.refinitiv.com/auth/oauth2/v1/token",
     "BasicAuthUsername": "<Basic Authentication Username>",
-    "BasicAuthPassword": "<Basic Authentication Password",
+    "BasicAuthPassword": "<Basic Authentication Password>",
     "ExpiryBufferMinutes": 2
   }
 }
