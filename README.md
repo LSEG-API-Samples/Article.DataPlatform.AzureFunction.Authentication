@@ -13,4 +13,4 @@ This approach improves security and performance by ensuring that no client secre
 
 __Note:__ The Basic Authentication credentials used to access the Azure Function are independent of the LSEG Data Platform credentials used to obtain OAuth2 access tokens.
 
-For the full article, please refer to [this link](https://developers.lseg.com/en/article-catalog/article/building-lseg-authentication-in-power-query-using-azure-function).
+For the full article, please visit [this link](https://developers.lseg.com/en/article-catalog/article/building-lseg-authentication-in-power-query-using-azure-function).
